@@ -1,6 +1,7 @@
 # Simple Angular Application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.11.
+
 ✅ View a list of products  
 ✅ Buy products (decreasing quantity when purchased)  
 ✅ Like products  
