@@ -2,6 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.11.
 
+that allows users to:
 ✅ View a list of products  
 ✅ Buy products (decreasing quantity when purchased)  
 ✅ Like products  
